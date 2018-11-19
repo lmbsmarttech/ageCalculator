@@ -15,4 +15,6 @@ Does not collect or share any personal sensative information.
 
 Does not collect perosonal information of the users.
 
+The icons used in this app has right access to use from ionic icons.
+
 
